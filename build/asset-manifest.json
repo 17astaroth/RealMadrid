@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RealMadrid/build/static/css/main.41fa19bd.css",
+    "main.js": "/RealMadrid/build/static/js/main.c364efb5.js",
+    "static/js/453.b6da8f7d.chunk.js": "/RealMadrid/build/static/js/453.b6da8f7d.chunk.js",
+    "static/media/imagen2.jpg": "/RealMadrid/build/static/media/imagen2.388f43f724c095890ee3.jpg",
+    "static/media/imagen1.jpg": "/RealMadrid/build/static/media/imagen1.754657238b77c6a688d1.jpg",
+    "static/media/imagen3.jpeg": "/RealMadrid/build/static/media/imagen3.e6dad67c2c53fa13d3a8.jpeg",
+    "index.html": "/RealMadrid/build/index.html",
+    "main.41fa19bd.css.map": "/RealMadrid/build/static/css/main.41fa19bd.css.map",
+    "main.c364efb5.js.map": "/RealMadrid/build/static/js/main.c364efb5.js.map",
+    "453.b6da8f7d.chunk.js.map": "/RealMadrid/build/static/js/453.b6da8f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fa19bd.css",
+    "static/js/main.c364efb5.js"
+  ]
+}
